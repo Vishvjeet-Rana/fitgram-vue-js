@@ -14,7 +14,7 @@ export const workoutProgram = {
     ],
   },
   1: {
-    // Pull
+    //Pull
     warmup: [
       { name: "Wall bodyweight rows", sets: 2, reps: 25 },
       { name: "Scapula pull ups", sets: 2, reps: 20 },
