@@ -1,7 +1,10 @@
-# Fitgram 🏋️‍♂️
+# Fiitgram 🏋️‍♂️
 
 **Fitgram** is a simple and lightweight fitness tracker built with **Vue 3 Composition API**.  
 It allows users to complete and track a pre-defined workout program, save progress in localStorage, and view their dashboard.
+
+## 🔗	Deployed on Netlify
+- **[Visit Fiitgram Live Site](https://fiitgram.netlify.app/)**
 
 ## 🚀 Features
 
